@@ -1,18 +1,19 @@
 To reference information about this resource, please cite:
 
-TODO (co-design): confirm the author list.
+TODO (co-design): add co-authors after Karina Rodriguez Echavarria.
 
-Karina Rodriguez Echavarria. "AI infrastructures and their impact".
-2026.
+Karina Rodriguez Echavarria et al. "AI in the community and their impact".
+2026. https://github.com/culturedigitalskills/2027-ai-and-community
 
-@online{rodriguez-ai-infrastructures-26,
-  author      = {Karina {Rodriguez Echavarria}},
-  title       = {AI infrastructures and their impact},
+@online{rodriguez-ai-community-26,
+  author      = {Karina {Rodriguez Echavarria} and others},
+  title       = {AI in the community and their impact},
   year        = {2026},
+  url         = {https://github.com/culturedigitalskills/2027-ai-and-community},
 }
 
-Title: AI infrastructures and their impact
-Author: Karina Rodriguez Echavarria
+Title: AI in the community and their impact
+Authors: Karina Rodriguez Echavarria, [TODO (co-design): add co-authors]
 Resource organisation: [Digital Skills in Arts and Humanities (DISKAH)](https://www.culturedigitalskills.org)
 Keywords: AI infrastructure, HPC, AI, AI impact, environmental impact, AI energy consumption, AI carbon footprint, AI sustainability
 License: CC-BY 4.0

@@ -9,6 +9,7 @@ This lesson is for arts and humanities researchers who want to use AI but are un
 The lesson is an output of the [Connecting Arts and Humanities Infrastructures for AI Capability](https://artsandhumanities.ai) project funded by UKRI under IS8.
 
 By the end of the lesson learners would learn the basis of AI infrastructure, including:
+
 - what are data centres?
 - where their data goes when they use AI tools?
 - what they can access?

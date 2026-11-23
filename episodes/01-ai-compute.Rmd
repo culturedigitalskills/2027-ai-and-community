@@ -31,10 +31,6 @@ exercises: 15
 
 <!-- TODO (co-design): a plain-language definition and the building blocks (models, tools, computing, storage and data services), from a laptop to national supercomputers; keep it brief -->
 
-## Describing your research task
-
-<!-- TODO (co-design): simple questions researchers can ask about their data, model and time to judge the scale of a task -->
-
 ### Measuring computing: CPU hours and GPU hours
 
 <!-- TODO (co-design): explain CPU hours and GPU hours in plain words, e.g. 1 GPU used for 10 hours is 10 GPU hours, and why GPUs are used for many AI tasks -->
